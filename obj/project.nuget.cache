@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VYUlAwxf3Hs=",
+  "success": true,
+  "projectFilePath": "D:\\monocept_c# learning\\Assignment\\MovieAppSerializer\\MovieAppWithSeriallizer\\MovieAppWithSeriallizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
